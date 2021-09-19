@@ -1,0 +1,3 @@
+Code generator error at line 1, column 54: Specified FLOAT two or more base attributes specified at the same time
+Code generator error at line 1, column 68: Base attribute COMPLEX already declared
+Code generator error at line 3, column 5: Variable with name VAR07 was already declared

@@ -1,0 +1,5 @@
+PROCEDURE ASDF3 ( A, B: INTEGER, COMPLEX );
+BEGIN  (* ASDJAOasfasf
+
+END;
+*)

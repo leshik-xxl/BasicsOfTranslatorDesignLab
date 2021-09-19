@@ -1,0 +1,1 @@
+Code generator error at line 1, column 66: Specified BLOCKFLOAT two or more base attributes specified at the same time

@@ -1,0 +1,1 @@
+SyntacticalAnalyzer: Error ( line: 1, column 8): Identifier lexeme expected, but delimiter found

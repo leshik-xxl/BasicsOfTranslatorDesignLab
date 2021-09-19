@@ -1,0 +1,2 @@
+LexicalAnalyzer: Error ( line: 1, column 19 ): Illegal character `3` detected
+LexicalAnalyzer: Error ( line: 1, column 20 ): Illegal character `4` detected

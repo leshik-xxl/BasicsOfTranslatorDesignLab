@@ -1,0 +1,1 @@
+Code generator error at line 3, column 5: Variable with name VAR07 was already declared

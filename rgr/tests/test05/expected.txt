@@ -1,0 +1,1 @@
+SyntacticalAnalyzer: Error ( line: 3, column 4): '.' delimiter expected, but : delimiter found

@@ -1,0 +1,1 @@
+SyntacticalAnalyzer: Error ( line: 3, column 1): 'BEGIN' keyword expected, but END keyword found

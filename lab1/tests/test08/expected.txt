@@ -1,0 +1,2 @@
+LexicalAnalyzer: Error ( line: 1, column 21 ): Illegal character `=` detected
+LexicalAnalyzer: Error ( line: 2, column 7 ): Illegal character `*` detected

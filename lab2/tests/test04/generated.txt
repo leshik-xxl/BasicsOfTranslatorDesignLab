@@ -1,0 +1,15 @@
+ .486
+.model flat, stdcall
+.code
+
+PUBLIC SIG01
+
+;; Main procedure declaration
+SIG01 PROC NEAR 
+  PUSH BP
+  MOV BP, SP
+  POP BP
+  RET
+SIG01 ENDP
+
+END

@@ -1,0 +1,27 @@
+<signal_program>
+..<program>
+....400 PROGRAM
+....<procedure_identifier>
+......<identifier>
+........1000 SIG01
+....59 ;
+....<block>
+......402 BEGIN
+......<statement_list>
+........<statement>
+..........<condition_statement>
+............412 IF
+............<condition_expression>
+..............<identifier>
+................1001 TEST
+............413 THEN
+............<statement_list>
+..............<empty>
+............<alternative_part>
+..............<empty>
+..........410 ENDIF
+..........59 ;
+........<statement_list>
+..........<empty>
+......403 END
+....46 .

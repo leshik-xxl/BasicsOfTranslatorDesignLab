@@ -1,0 +1,55 @@
+<signal_program>
+..<program>
+....401 PROCEDURE
+....<procedure_identifier>
+......<identifier>
+........1000 SIG01
+....<parametrs_list>
+......40 (
+......<declarations_list>
+........<declaration>
+..........<variable_identifier>
+............<identifier>
+..............1001 VAR01
+..........<identifiers_list>
+............44 ,
+............<variable_identifier>
+..............<identifier>
+................1002 VAR02
+............<identifiers_list>
+..............44 ,
+..............<variable_identifier>
+................<identifier>
+..................1003 VAR03
+..............<identifiers_list>
+................44 ,
+................<variable_identifier>
+..................<identifier>
+....................1004 VAR04
+................<identifiers_list>
+..................<empty>
+..........58 :
+..........<attribute>
+............407 FLOAT
+..........<attributes_list>
+............<attribute>
+..............405 COMPLEX
+............<attributes_list>
+..............<attribute>
+................406 INTEGER
+..............<attributes_list>
+................<attribute>
+..................409 EXT
+................<attributes_list>
+..................<empty>
+..........59 ;
+........<declarations_list>
+..........<empty>
+......41 )
+....59 ;
+....<block>
+......402 BEGIN
+......<statement_list>
+........<empty>
+......403 END
+....59 ;

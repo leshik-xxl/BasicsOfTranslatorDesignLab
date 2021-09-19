@@ -1,0 +1,3 @@
+PROGRAM;
+BEGIN (* AS *)
+END;

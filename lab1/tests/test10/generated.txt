@@ -1,0 +1,4 @@
+LexicalAnalyzer: Error ( line: 4, column 3 ): Illegal character `%` detected
+LexicalAnalyzer: Error ( line: 5, column 2 ): Illegal character `,` detected
+LexicalAnalyzer: Error ( line: 5, column 6 ): Illegal character `
+` detected

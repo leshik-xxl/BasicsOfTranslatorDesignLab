@@ -1,0 +1,1 @@
+SyntacticalAnalyzer: Error ( line: 2, column 1): ';' delimiter lexeme expected, but keyword found

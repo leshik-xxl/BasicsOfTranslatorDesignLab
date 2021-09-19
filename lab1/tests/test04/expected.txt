@@ -1,0 +1,1 @@
+LexicalAnalyzer: Error ( line: 2, column 7 ): File ended before comment was closed
