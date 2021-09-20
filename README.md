@@ -1,1 +1,3 @@
-# kv82 Bikerei Alexey OPT
+# Lab1 Lexical analyze
+# RGR Parsing
+# Lab2 Code generator
